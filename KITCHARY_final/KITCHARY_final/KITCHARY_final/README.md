@@ -10,7 +10,7 @@ A full-stack Django web application for restaurant food ordering with user authe
 - **Role-based Access**: Different dashboards for customers and admins
 
 ### 🍕 Menu Management
-- **Visual Menu**: Display menu items with images, prices and descriptions
+- **Visual Menu**: Display menu items with images, prices and descriptions.
 - **Image Support**: Upload and display dish images for better visual appeal
 - **Order Placement**: Interactive form to select items and quantities with images
 - **Real-time Calculations**: Automatic total calculation
